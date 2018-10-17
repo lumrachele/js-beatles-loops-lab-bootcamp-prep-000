@@ -29,7 +29,7 @@ function iLoveTheBeatles (n){
   }
   
   do {
-    incrementVariable();
+    incrementVariable(n);
     array.push(`I love the Beatles!`);
 
   }
