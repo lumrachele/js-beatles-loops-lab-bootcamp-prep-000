@@ -30,7 +30,7 @@ function iLoveTheBeatles (n){
     incrementVariable(n);
     array.push(`I love the Beatles!`);
   }
-  while (n < 15 && incrementVariable()<= 15)
+  while (n < 15 && incrementVariable())
   
   return array
 }
